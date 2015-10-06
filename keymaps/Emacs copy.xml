@@ -1,0 +1,24 @@
+<keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="Build">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="Clean">
+    <keyboard-shortcut first-keystroke="alt f8" />
+  </action>
+  <action id="EvaluateExpression" />
+  <action id="JumpToLastWindow" />
+  <action id="Resume" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="ToggleBookmark" />
+</keymap>
