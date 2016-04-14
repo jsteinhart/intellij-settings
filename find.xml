@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ambiguity'" />
-    <option name="defaultScopeName" value="Project 'ambiguity'" />
-    <option name="SEARCH_SCOPE" value="Project 'ambiguity'" />
+    <option name="customScope" value="Module 'social_interaction'" />
+    <option name="defaultScopeName" value="Module 'social_interaction'" />
+    <option name="SEARCH_SCOPE" value="Module 'social_interaction'" />
   </component>
 </application>
