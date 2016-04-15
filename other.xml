@@ -1,10 +1,4 @@
 <application>
-  <component name="CPPToolchains">
-    <option name="detectedVersion" value="4" />
-  </component>
-  <component name="CodeStyleSchemes">
-    <option name="CURRENT_SCHEME_NAME" value="Default" />
-  </component>
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
       <value>
@@ -52,13 +46,5 @@
     <option name="DO_OUTPUT" value="false" />
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
-  </component>
-  <component name="OCNewClassSettings">
-    <option name="mySkipAddingToTheProject" value="true" />
-  </component>
-  <component name="PyCodeInsightSettings">
-    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
-    <option name="RENAME_SEARCH_NON_CODE_FOR_CLASS" value="true" />
-    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="true" />
   </component>
 </application>
